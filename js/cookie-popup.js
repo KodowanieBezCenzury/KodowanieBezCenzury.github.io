@@ -2,7 +2,7 @@
     if (!localStorage.getItem('cookieconsent')) {
         document.body.innerHTML += '\
 		<div class="cookiePopup cookieconsent animated fadeInUp">\
-			This site uses cookies. By continuing to use this website, you agree to their use. <a href="#" class="cookieBtn">OK! I like cookies:)</a>\
+			Ta strona używa ciasteczek. <a href="#" class="cookieBtn">OK! Zamknij popup.</a>\
 		</div>\
 		';
         document.querySelector('.cookieconsent a').onclick = function (e) {
