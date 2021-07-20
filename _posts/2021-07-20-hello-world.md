@@ -4,9 +4,9 @@ title: Hello World!
 subtitle: 
 bigimg: /img/posts/adam-solomon-WHUDOzd5IYU-unsplash.jpg
 img-author: Adam Solomon
-tags: [blogging]
+tags: [blogowanie]
 comments: true
-url: /hello-world
+permalink: /hello-world
 published: true
 ---
 
