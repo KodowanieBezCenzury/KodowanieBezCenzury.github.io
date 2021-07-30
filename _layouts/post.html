@@ -55,27 +55,27 @@ layout: base
       <ul class="pager blog-pager" data-aos="fade-up" data-aos-once="true" data-aos-duration="1000">
         {% if page.previous.url %}
         <li class="previous">
-          <a href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+          <a href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Poprzedni</a>
         </li>
           {% else %}
           <li class="previous">
-            <a href="{{ '' | absolute_url }}" data-toggle="tooltip" data-placement="top" title="Homepage">Homepage</a>
+            <a href="{{ '' | absolute_url }}" data-toggle="tooltip" data-placement="top" title="Strona główna">Strona główna</a>
           </li>
         {% endif %}
 
         {% if page.previous.url and page.next.url %}
         <li class="previous">
-          <a class="pager-homepage-central" href="{{ '' | absolute_url }}" data-toggle="tooltip" data-placement="top" title="Homepage">Homepage</a>
+          <a class="pager-homepage-central" href="{{ '' | absolute_url }}" data-toggle="tooltip" data-placement="top" title="Strona główna">Strona główna</a>
         </li>
         {% endif %}
 
         {% if page.next.url %}
         <li class="next">
-          <a href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+          <a href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Następny &rarr;</a>
         </li>
         {% else %}
         <li class="next">
-          <a href="{{ '' | absolute_url }}" data-toggle="tooltip" data-placement="top" title="Homepage">Homepage</a>
+          <a href="{{ '' | absolute_url }}" data-toggle="tooltip" data-placement="top" title="Strona główna">Strona główna</a>
         </li>
         {% endif %}
       </ul>
