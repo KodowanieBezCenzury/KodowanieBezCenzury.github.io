@@ -16,7 +16,7 @@ brak dostrzegania w tej czynności wartości. Często chodzi o samo pisanie test
 Jak zacząć? Co robić aby takie testy były przydatne oraz zrozumiałe?
 
 Dzisiaj chciałbym Ci pokazać jak rozpocząć pisanie testów w taki sposób aby były one czytelne. 
-Technikę tą możecie stosować niezależnie od tego czy testy tworzone są po implementacji 
+Technikę tą możesz stosować niezależnie od tego czy testy tworzone są po implementacji 
 czy może przed (z wykorzystaniem np. [Test-Driven Development](https://www.youtube.com/watch?v=yiPcPJeTbik&t=46s)).
 
 ## Zacznijmy od kodu
