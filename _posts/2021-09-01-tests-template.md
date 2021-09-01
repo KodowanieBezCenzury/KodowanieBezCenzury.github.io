@@ -84,6 +84,7 @@ testowych. Polega on na podzieleniu testu na trzy części:
 1. **Given** - założenia; wszystko co musi się wydarzyć aby po wywołaniu testowanej metody stało się to, czego oczekujemy. Czasami zdarzają się testy, gdzie nie mamy żadnych założeń, a niekiedy mamy ich kilka.
 2. **When** - wywołanie testowanej metody. Tutaj zawsze mamy jedną linijkę kodu.
 3. **Then** - weryfikacja (asercja) czy wydarzyło się to, czego oczekujemy. W teście musimy mieć co najmniej jedną weryfikację (asercję).
+
 ```java
 @Test
 void shouldDoSomething() {
