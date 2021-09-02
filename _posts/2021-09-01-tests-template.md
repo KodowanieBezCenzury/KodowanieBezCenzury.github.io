@@ -14,10 +14,11 @@ Wyzwanie pojawia się w momencie gdy takie testy trzeba napisać.
 Często podstawą tego problemu nie jest jakaś podświadoma niechęci do testowania czy też 
 brak dostrzegania w tej czynności wartości. Często chodzi o samo pisanie testów: 
 Jak zacząć? Co robić aby takie testy były przydatne oraz zrozumiałe?
+<!--more -->
 
 Dzisiaj chciałbym Ci pokazać jak rozpocząć pisanie testów w taki sposób aby były one czytelne. 
 Technikę tą możesz stosować niezależnie od tego czy testy tworzone są po implementacji 
-czy może przed (z wykorzystaniem np. [Test-Driven Development](https://www.youtube.com/watch?v=yiPcPJeTbik&t=46s)).
+czy może przed (z wykorzystaniem np. <a href="https://www.youtube.com/watch?v=yiPcPJeTbik&t=46s" style="color: blue; text-decoration: underline;">Test-Driven Development</a>).
 
 ## Zacznijmy od kodu
 Naszym celem jest przetestowanie funkcjonalności, która ma umożliwić dodawanie nowego Apartamentu
@@ -178,9 +179,11 @@ W tym artykule zademonstrowałem Wam jak stworzyć czytelny szablon do swoich te
 Dzięki takiemu podejściu nie skupiasz się na problemach związanych z implementacją tylko na logice, która ma zostać przetestowana. Ponadto, bardzo szybko zauważasz miejsca gdzie możesz ponownie wykorzystać zadeklarowane wcześniej metody.
 
 ---------------
-YouTube: [#KodowanieBezCenzury - Testowanie - budowanie szablonu testów](https://www.youtube.com/watch?v=_MOK258eho0)
+<div style="text-align: center;">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/_MOK258eho0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-Github: [repository](https://github.com/KodowanieBezCenzury/testing-tips/tree/master/tests-template)
+Github: <a href="https://github.com/KodowanieBezCenzury/testing-tips/tree/master/tests-template" style="color: blue; text-decoration: underline;">repository</a>
 
 ---------------
-[Sebastian Malaca](https://www.linkedin.com/in/sebastian-malaca-3206004b/)
+<a href="https://www.linkedin.com/in/sebastian-malaca-3206004b/" style="color: blue; text-decoration: underline;">Sebastian Malaca</a>
