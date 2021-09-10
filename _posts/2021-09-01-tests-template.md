@@ -18,7 +18,7 @@ Jak zacząć? Co robić aby takie testy były przydatne oraz zrozumiałe?
 
 Dzisiaj chciałbym Ci pokazać jak rozpocząć pisanie testów w taki sposób aby były one czytelne. 
 Technikę tą możesz stosować niezależnie od tego czy testy tworzone są po implementacji 
-czy może przed (z wykorzystaniem np. <a href="https://www.youtube.com/watch?v=yiPcPJeTbik&t=46s" style="color: blue; text-decoration: underline;">Test-Driven Development</a>).
+czy może przed (z wykorzystaniem np. <a href="https://www.youtube.com/watch?v=yiPcPJeTbik&t=46s" style="color: #2D46B9; text-decoration: underline;">Test-Driven Development</a>).
 
 ## Zacznijmy od kodu
 Naszym celem jest przetestowanie funkcjonalności, która ma umożliwić dodawanie nowego Apartamentu
@@ -183,7 +183,7 @@ Dzięki takiemu podejściu nie skupiasz się na problemach związanych z impleme
    <iframe width="560" height="315" src="https://www.youtube.com/embed/_MOK258eho0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Github: <a href="https://github.com/KodowanieBezCenzury/testing-tips/tree/master/tests-template" style="color: blue; text-decoration: underline;">repository</a>
+Github: <a href="https://github.com/KodowanieBezCenzury/testing-tips/tree/master/tests-template" style="color: #2D46B9; text-decoration: underline;">repository</a>
 
 ---------------
-<a href="https://www.linkedin.com/in/sebastian-malaca-3206004b/" style="color: blue; text-decoration: underline;">Sebastian Malaca</a>
+<a href="https://www.linkedin.com/in/sebastian-malaca-3206004b/" style="color: ##2D46B9; text-decoration: underline;">Sebastian Malaca</a>
