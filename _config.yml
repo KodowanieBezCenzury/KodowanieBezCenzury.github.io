@@ -6,7 +6,7 @@ title: Kodowanie Bez Cenzury
 # Short description of your site
 description: Kawa na ławę i kodujemy!
 
-nav-title: Blog
+nav-title: Kodowanie Bez Cenzury
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,7 +22,10 @@ nav-title: Blog
 
 # List of links in the navigation bar
 navbar-links:
-  YouTube: "https://www.youtube.com/channel/UCCivf3LhGmQWJ5wOtAIiJOQ"
+  Kanał YouTube: "https://www.youtube.com/channel/UCCivf3LhGmQWJ5wOtAIiJOQ"
+  Architektura: "https://www.youtube.com/playlist?list=PLie3YpIL1rtb3ylSxTyluC_QrMTXcsERl"
+  Refaktoring: "https://www.youtube.com/playlist?list=PLie3YpIL1rtbnFMPTzanZk4ygmPFbyhgv"
+  Testowanie: "https://www.youtube.com/playlist?list=PLie3YpIL1rtaR8FbnXaVYNoyNdZPQUi4r"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
