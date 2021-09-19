@@ -179,7 +179,7 @@ W tym artykule zademonstrowałem Wam jak stworzyć czytelny szablon do swoich te
 Dzięki takiemu podejściu nie skupiasz się na problemach związanych z implementacją tylko na logice, która ma zostać przetestowana. Ponadto, bardzo szybko zauważasz miejsca gdzie możesz ponownie wykorzystać zadeklarowane wcześniej metody.
 
 ---------------
-<div style="text-align: center;">
+<div class="align-center">
    <iframe width="560" height="315" src="https://www.youtube.com/embed/_MOK258eho0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

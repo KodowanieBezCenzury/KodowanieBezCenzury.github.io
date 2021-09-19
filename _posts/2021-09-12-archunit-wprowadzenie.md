@@ -21,7 +21,7 @@ lecz jednym z najprostszych i skuteczniejszych jest zastosowanie ArchUnita, któ
 
 W dzisiejszym materiale Pawel opowie, czym jest ArchUnit i jak użyć tego świetnego narzędzia:
 
-<div style="text-align: center;">
+<div class="align-center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/uv98TxaRq-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

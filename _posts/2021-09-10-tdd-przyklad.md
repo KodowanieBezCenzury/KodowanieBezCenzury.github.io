@@ -19,7 +19,7 @@ Materiał Tomka pokazuje też jeszcze jeden istotny aspekt - TDD nie spowalnia s
 Implementacja ciągu Fibonacciego to częste zadanie rekrutacyjne, dlatego warto też przyjrzeć się, jak to robić dobrze:)
 
 
-<div style="text-align: center;">
+<div class="align-center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/yiPcPJeTbik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
