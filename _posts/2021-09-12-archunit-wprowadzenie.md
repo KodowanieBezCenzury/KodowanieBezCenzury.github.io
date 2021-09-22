@@ -4,7 +4,7 @@ title: ArchUnit - czyli jak testować swoją architekturę?
 subtitle: Proste testowanie architektury? Niemożliwe staje się możliwe!
 bigimg: /img/posts/danist-soh-dqXiw7nCb9Q-unsplash.jpg
 img-author: Danist Soh
-tags: [architektura, testowanie, testy, testing, clean code, code quality]
+tags: [architektura, testowanie, testy, testing, clean code, jakość kodu]
 comments: true
 published: true
 ---
